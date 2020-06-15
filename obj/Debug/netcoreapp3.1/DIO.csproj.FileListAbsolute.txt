@@ -1,0 +1,13 @@
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO.deps.json
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO.runtimeconfig.json
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO.runtimeconfig.dev.json
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO.dll
+/home/dolby/DIO/bin/Debug/netcoreapp3.1/DIO.pdb
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.csprojAssemblyReference.cache
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.AssemblyInfoInputs.cache
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.AssemblyInfo.cs
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.csproj.CoreCompileInputs.cache
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.dll
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.pdb
+/home/dolby/DIO/obj/Debug/netcoreapp3.1/DIO.genruntimeconfig.cache
